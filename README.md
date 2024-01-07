@@ -2,5 +2,5 @@
 
 ## Demo
 
-https://ankityadavmtd.github.io/AlarmClock_Coding-Ninjas/
+https://ankityadavmtd.github.io/Alarm-Clock/
 
